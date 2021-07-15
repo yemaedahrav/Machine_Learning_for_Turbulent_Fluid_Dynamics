@@ -4,4 +4,4 @@
 
 # Machine Learning for Turbulent Fluid Dynamics
 ### Statistical Description of fluid flow in a pipe
-This repository consists of the work done as a student developer, during the Google Summer of Code (GSoC) 2021 program. The project, Machine Learning for Turbulent Fluid Dynamics is a part of the Turbulent suburbanization under the Machine Learning for Science (ML4SCI) umbrella organization.
+This repository consists of the work done as a student developer, during the Google Summer of Code (GSoC) 2021 program. The project, Machine Learning for Turbulent Fluid Dynamics is a part of the Turbulent suborganization under the Machine Learning for Science (ML4SCI) umbrella organization.
