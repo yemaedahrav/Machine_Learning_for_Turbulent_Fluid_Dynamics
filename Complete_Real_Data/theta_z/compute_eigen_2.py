@@ -113,7 +113,7 @@ for time_stamp in range(N_t):
     fig.set_figwidth(12)
     fig.set_figheight(10)
     
-    svm = sns.heatmap(Q_t, cbar=True, square=True, xticklabels=False, yticklabels=False, norm=LogNorm())
+    svm = sns.heatmap(Q_t, cbar=True, square=True, xticklabels="auto", yticklabels="auto", norm=LogNorm())
 #     fig = svm.get_figure()    
 #     fig.savefig(str(time_stamp)+'.png', dpi=400)
     file_name = "s3_log_heatmap_"+str(time_stamp)+".png"
