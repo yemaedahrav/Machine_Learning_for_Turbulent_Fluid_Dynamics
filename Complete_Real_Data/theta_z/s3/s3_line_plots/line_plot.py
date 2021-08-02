@@ -15,14 +15,14 @@ N_z = 512
 
 script_dir = os.path.dirname(__file__)
 
-for time_stamp in range(N_t):
+for time_stamp in range(43,54):
     print(time_stamp)
     dir_name = "time_stamp_" + str(time_stamp)+"/"
     results_dir = os.path.join(script_dir, dir_name)
     eig = np.loadtxt("s3_eigen_"+str(time_stamp)+".txt", dtype=np.float64)
     eig = np.asarray(eig)
     eig = np.reshape(eig, (N_th, N_z))
-    eig = np.clip(eig, 1e-8 ,1e7)
+    eig = np.clip(eig, 1e-8, 1e7)
     print("File Read")
     for th in range(N_th):
         print("th: ", th)
