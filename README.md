@@ -33,7 +33,11 @@ This repository consists of the work done as a student developer, during the Goo
 
   [Project Idea](https://ml4sci.org/gsoc/2021/proposal_TURBULENT.html)
 
+  [Project Details](https://summerofcode.withgoogle.com/projects/#5955320347623424)
+  
   [Accepted Proposal](https://docs.google.com/document/d/1xl0_4a0FqFZC1DTo6qDEAuOOVf5jRjMzV96AuViirMo/edit?usp=sharing)
+  
+  
 
 
 ## Abstract
