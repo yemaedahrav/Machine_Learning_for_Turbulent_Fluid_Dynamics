@@ -1,0 +1,9 @@
+module: unloading 'python/2.7.12'
+module: loading 'python/3.9.0'
+module: loading 'mpi/openmpi_4.0.0_gcc'
+module: loading 'hdf5/1.10.5_openmpi_4.0.0_gcc'
+module: loading 'anaconda/2020.02'
+module: anaconda: "See https://docs.ccv.brown.edu/oscar/software/anaconda for potential issues on VNC and batch jobs"
+
+CondaSystemExit: Exiting.
+

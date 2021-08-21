@@ -1,0 +1,148 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 1967333
+##  Job Name : amey_plot
+##  Nodelist : node1125
+##      CPUs : 5
+##  Mem/Node : 6144 MB
+## Directory : /gpfs/scratch/avarhard/ret60_3_nl_g_s4
+##   Started : Mon Aug  9 08:26:22 EDT 2021
+###############################################################################
+WARNING: A conda environment already exists at '/users/avarhard/anaconda/amey_conda'
+Remove existing environment (y/[n])? 
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+# All requested packages already installed.
+
+0
+th:  0
+th:  16
+th:  32
+th:  48
+th:  64
+th:  80
+th:  96
+th:  112
+th:  128
+th:  144
+th:  160
+th:  176
+th:  192
+th:  208
+th:  224
+th:  240
+z:  0
+z:  16
+z:  32
+z:  48
+z:  64
+z:  80
+z:  96
+z:  112
+z:  128
+z:  144
+z:  160
+z:  176
+z:  192
+z:  208
+z:  224
+z:  240
+1
+th:  0
+th:  16
+th:  32
+th:  48
+th:  64
+th:  80
+th:  96
+th:  112
+th:  128
+th:  144
+th:  160
+th:  176
+th:  192
+th:  208
+th:  224
+th:  240
+z:  0
+z:  16
+z:  32
+z:  48
+z:  64
+z:  80
+z:  96
+z:  112
+z:  128
+z:  144
+z:  160
+z:  176
+z:  192
+z:  208
+z:  224
+z:  240
+2
+th:  0
+th:  16
+th:  32
+th:  48
+th:  64
+th:  80
+th:  96
+th:  112
+th:  128
+th:  144
+th:  160
+th:  176
+th:  192
+th:  208
+th:  224
+th:  240
+z:  0
+z:  16
+z:  32
+z:  48
+z:  64
+z:  80
+z:  96
+z:  112
+z:  128
+z:  144
+z:  160
+z:  176
+z:  192
+z:  208
+z:  224
+z:  240
+3
+th:  0
+th:  16
+th:  32
+th:  48
+th:  64
+th:  80
+th:  96
+th:  112
+th:  128
+th:  144
+th:  160
+th:  176
+th:  192
+th:  208
+th:  224
+th:  240
+z:  0
+z:  16
+z:  32
+z:  48
+z:  64
+z:  80
+z:  96
+z:  112
+z:  128
+z:  144
+z:  160
+z:  176
+z:  192
+z:  208
+z:  224
+z:  240

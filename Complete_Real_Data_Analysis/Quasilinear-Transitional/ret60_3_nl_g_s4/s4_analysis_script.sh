@@ -1,0 +1,15 @@
+#!/bin/bash
+#SBATCH -n 5
+#SBATCH -t 01:00:00
+#SBATCH --mem=6G
+#SBATCH -J amey_s4_analysis
+#SBATCH -o s4_output.out
+#SBATCH -e s4_error.err
+module load python/3.9.0 mpi/openmpi_4.0.0_gcc hdf5/1.10.5_openmpi_4.0.0_gcc 
+module load anaconda/2020.02
+source /gpfs/runtime/opt/anaconda/2020.02/etc/profile.d/conda.sh
+conda create -n amey_conda
+conda activate amey_conda
+conda install numpy matplotlib numba h5py
+python s4_analysis.py
+conda deactivate

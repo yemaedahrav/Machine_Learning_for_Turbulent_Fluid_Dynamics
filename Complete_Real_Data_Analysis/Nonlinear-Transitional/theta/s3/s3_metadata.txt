@@ -1,0 +1,29 @@
+scales
+scales/Tr
+scales/constant
+scales/iteration
+scales/kth
+scales/kz
+scales/r
+scales/r/1.0
+scales/sim_time
+scales/th
+scales/th/1.0
+scales/timestep
+scales/wall_time
+scales/world_time
+scales/write_number
+scales/z
+scales/z/1.0
+tasks
+tasks/uh
+tasks/ul
+tasks/vh
+tasks/vl
+tasks/wh
+tasks/wl
+N_r:  96
+N_th:  128
+N_z:  512
+N_t:  55
+Time Duration: 1891.916178226471

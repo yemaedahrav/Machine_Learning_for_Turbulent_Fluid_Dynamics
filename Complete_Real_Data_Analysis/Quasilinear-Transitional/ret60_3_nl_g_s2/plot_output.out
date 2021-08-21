@@ -1,0 +1,16 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 2031776
+##  Job Name : amey_plot
+##  Nodelist : node[1137,1162]
+##      CPUs : 10
+##  Mem/Node : 6144 MB
+## Directory : /gpfs/scratch/avarhard/ret60_3_nl_g_s2
+##   Started : Mon Aug 16 09:03:30 EDT 2021
+###############################################################################
+WARNING: A conda environment already exists at '/users/avarhard/anaconda/amey_conda'
+Remove existing environment (y/[n])? 
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+# All requested packages already installed.
+
