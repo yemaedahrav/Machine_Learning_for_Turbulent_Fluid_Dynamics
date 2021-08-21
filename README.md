@@ -55,7 +55,7 @@ You can follow the work at [ameygsocblog](https://yemaedahrav.github.io/ameygsoc
 
 ## Contact
 
-For any contributions, issues, suggestions, help reach out to me through [Mail](ameyvarhade@gmail.com)
+For any contributions, issues, suggestions, help reach out to me through <ameyvarhade@gmail.com>
 
 
 You can also reach out to me on the below handles
