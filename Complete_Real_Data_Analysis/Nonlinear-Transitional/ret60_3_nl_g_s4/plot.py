@@ -25,7 +25,7 @@ for i in range(len(file_list)):
     f.set_figwidth(12)
     f.set_figheight(10)
  
-    plt.pcolormesh(eig, cmap='hot', norm=LogNorm())
+    plt.pcolormesh(eig, cmap='viridis', norm=LogNorm())
     plt.xlabel('z')
     plt.ylabel('$\theta$')
     plt.title("Eigenvalues at t = {}".format(i))
